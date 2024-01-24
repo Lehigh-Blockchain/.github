@@ -9,8 +9,7 @@ we pursue research and teach a set of courses aiming to advance blockchain techn
 
 In the [Rossin College of Engineering](https://engineering.lehigh.edu/), we are part of the [Scalable Systems and Software Research Group](http://sss.cse.lehigh.edu/) (SSS).
 In the [College of Business](https://business.lehigh.edu/), 
-we are the [Blockchain Lab](https://business.lehigh.edu/centers/center-financial-services/blockchain-lab) within the [Center for Financial Services](https://business.lehigh.edu/centers/center-financial-services).  
-We are the _FinTech and Blockchain_ focus area with the Institute for Data, Intelligent Systems, and Computation ([I-DISC](https://idisc.lehigh.edu/research/fintech-blockchain)).
+we are the [Blockchain Lab](https://business.lehigh.edu/centers/center-financial-services/blockchain-lab) within the [Center for Financial Services](https://business.lehigh.edu/centers/center-financial-services). We are the _FinTech and Blockchain_ focus area with the Institute for Data, Intelligent Systems, and Computation ([I-DISC](https://idisc.lehigh.edu/research/fintech-blockchain)).
 <!--
 
 **Here are some ideas to get you started:**
